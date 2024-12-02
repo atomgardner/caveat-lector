@@ -1,0 +1,13 @@
+= Caveat Lector = 
+
+This is an incomplete collection of solutions to the [cryptopals] problem sets.
+
+If I were to do this again I'd:
+
+* Use open_memstream().
+* Think harder about interface boundaries.
+* Hard code values; don't read from files.
+* Use python :^)
+
+
+[cryptopals]:	https://cryptopals.com/
